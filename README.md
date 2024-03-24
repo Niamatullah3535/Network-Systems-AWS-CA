@@ -17,7 +17,7 @@ Before running this Terraform configuration, ensure you have the following prere
 
 1. Clone this repository to your local machine.
 ```bash
-  git clone https://github.com/sarmadkhan96/Terraform-AWS-CA-1.git
+  git clone https://github.com/Niamatullah3535/Network-Systems-AWS-CA.git
 ```
 2. Navigate to the directory containing the Terraform code.
 ```bash
